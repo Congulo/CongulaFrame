@@ -1,5 +1,8 @@
 # CongulaMain
-The main repo for the congulo frames and accessories
+
+## The Open Pack Platform
+
+The main repo for the congulo frame
 
 ![0001](https://user-images.githubusercontent.com/18065715/124577032-318b6880-de4d-11eb-92a7-4602e0e0dda6.jpg)
 ![0002](https://user-images.githubusercontent.com/18065715/124577053-35b78600-de4d-11eb-8699-bf8a89cd0beb.jpg)
